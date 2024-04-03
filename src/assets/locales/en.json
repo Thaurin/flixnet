@@ -130,12 +130,12 @@
         "extra": [""]
       },
       "morning": {
-        "default": "What would you like to watch this morning?",
-        "extra": ["I hear Before Sunrise is good"]
+        "default": "",
+        "extra": []
       },
       "night": {
-        "default": "What would you like to watch tonight?",
-        "extra": ["Tired? I hear The Exorcist is good."]
+        "default": "",
+        "extra": []
       }
     }
   },
